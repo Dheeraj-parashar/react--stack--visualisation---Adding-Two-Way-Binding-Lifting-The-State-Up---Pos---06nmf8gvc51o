@@ -23,7 +23,7 @@ function App() {
       seteValue(eValue.slice(1))
     } 
     else{
-      window.alert("stack is empty") 
+      window.alert("Stack is empty") 
     }
   }
   function handleTop(){
@@ -31,7 +31,7 @@ function App() {
       setTop(eValue[0])
     }
     else{
-      window.alert("stack is empty")
+      window.alert("Stack is empty")
     }
   }
 
